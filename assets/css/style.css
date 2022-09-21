@@ -1,0 +1,42 @@
+body {
+    font-family: 'Helvetica';
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+    margin: o;
+  }
+  header{
+  
+  }
+  footer{
+  
+  }
+  nav {
+    
+  }
+  .logo {
+    
+  }
+  .mission{
+  
+  }
+  .featuredTea {
+  
+  }
+  .locations {
+  
+  }
+  .contact {
+    
+  }
+  .locationsList{
+  list-style-type: none;
+  }
+  .navLinks {
+  
+  }
+  #navBar {
+  list-style-type: none;
+  }
